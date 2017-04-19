@@ -1,2 +1,2 @@
-# diadairy
+# ~~dear~~diadairy
 diabetic(mostly) journal
